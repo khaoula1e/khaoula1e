@@ -56,12 +56,12 @@
 </a>
  <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
-
 </div>
 
 <p align="center">  
 <br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=003459&background=e1e5f2&center=true&vCenter=true&width=450&height=60&lines=Good+code+is+its+own+best+documentation" alt="Typing SVG" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+
 </p>
 
