@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7732A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+ELFATIMI+Khaoula;A+Software+Engineering+student+at+INPT;I+hope+you+enjoy+my+profile..." alt="Typing SVG" />
 </p>
 
+<p align="center">
+   Visitor count<br>
+   <img src="https://profile-counter.glitch.me/khaoula1e/count.svg" />
+<p>
 
 
 
