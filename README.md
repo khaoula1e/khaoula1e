@@ -1,6 +1,6 @@
 <p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" ><i><b>I'm</i></b> ELFATIMI Khaoula </h1></p>
 <p align="center">  
-<img src="https://cdn.dribbble.com/users/1732368/screenshots/13868440/media/e5d35a4718deabcdc17dea202ed59373.gif" style="margin-top: -16px;max-width: 100%;"><br>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F13868440-Bring-the-Best-Team-of-Web-Developers-On-Board&psig=AOvVaw0DXvEu9nCB4fL4rBfwJSFM&ust=1682725357915000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjw48yey_4CFQAAAAAdAAAAABBT" style="margin-top: -16px;max-width: 100%;"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7732A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+ELFATIMI+Khaoula;A+Software+Engineering+student+at+INPT;I+hope+you+enjoy+my+profile..." alt="Typing SVG" />
 </p>
 
@@ -14,8 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-elfatimi-6092a8239/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:khaoulaelfatimi4@gmail.com)](mailto:khaoulaelfatimi4@gmail.com)
- <a href="https://www.hackerearth.com/khaoulaelfatimi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khaoulaelfatimi4" height="30" width="40" /></a>
-
+[![Hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.hackerearth.com/khaoulaelfatimi4)
 
 </div>
 
@@ -49,7 +48,7 @@
 
 <p align="center">  
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=caf0f8&background=03045e&center=true&vCenter=true&width=450&height=60&lines=The+best+thing+about+a+boolean+is+even+if+you+are+wrong,+you+are+only+off+by+a+bit" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=03045e&background=caf0f8&center=true&vCenter=true&width=450&height=60&lines=The+best+thing+about+a+boolean+is+even+if+you+are+wrong,+you+are+only+off+by+a+bit" alt="Typing SVG" />
 </p>
 
 
