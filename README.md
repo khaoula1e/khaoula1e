@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-elfatimi-6092a8239/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:khaoulaelfatimi4@gmail.com)](mailto:khaoulaelfatimi4@gmail.com)
-[![Hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerearth.com/khaoulaelfatimi4)
+
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <p align="center">  
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=03045e&background=caf0f8&center=true&vCenter=true&width=450&height=60&lines=The+best+thing+about+a+boolean+is+even+if+you+are+wrong,+you+are+only+off+by+a+bit" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=03045e&background=caf0f8&center=true&vCenter=true&width=450&height=60&lines=The+best+thing+about+a+boolean+is+even+if+you+are+wrong+,+you+are+only+off+by+a+bit" alt="Typing SVG" />
 </p>
 
 
