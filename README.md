@@ -52,7 +52,6 @@
 
 <p align="center">  
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=03045e&background=caf0f8&center=true&vCenter=true&width=450&height=60&lines=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=603EC2ED&background=B821270D&center=true&vCenter=true&width=450&height=60&lines=The+best+thing+about+a+boolean+is+even+if+you+are+wrong+,+you+are+only+off+by+a+bit" alt="Typing SVG" />
 
 
