@@ -1,7 +1,6 @@
 <p ><h1 align="center" style="color:#000; background: #fe921f;line-height: 90px;margin-top:40px" ><i><b>I'm</i></b> ELFATIMI Khaoula </h1></p>
 <p align="center">  
-<img src="![image](https://user-images.githubusercontent.com/93163622/235016257-e0bc7873-0adb-48ff-b73b-daedf9446ea5.png)
-" style="margin-top: -16px;max-width: 100%;"><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FvrGqS9MLPT-vr8lXr6-sDpzCYzXuwTDTYOvyrgdQaN0nqyH8CqR4Tr8xnd0y_fNlAA&usqp=CAU" style="margin-top: -16px;max-width: 100%;"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7732A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+ELFATIMI+Khaoula;A+Software+Engineering+student+at+INPT;I+hope+you+enjoy+my+profile..." alt="Typing SVG" />
 </p>
 
@@ -15,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-elfatimi-6092a8239/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:khaoulaelfatimi4@gmail.com)](mailto:khaoulaelfatimi4@gmail.com)
+ <a href="https://www.hackerearth.com/khaoulaelfatimi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khaoulaelfatimi4" height="30" width="40" /></a>
 
 
 </div>
