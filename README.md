@@ -20,13 +20,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:khaoulaelfatimi4@gmail.com)](mailto:khaoulaelfatimi4@gmail.com)
 
 </div>
-## 📄  Know about my experiences:
-<div align="center">
 
-
-
-</div>
-## 📄  Technologies and Tools I use:
+📄 Know about my experiences:
 
 
  <div align="center">
